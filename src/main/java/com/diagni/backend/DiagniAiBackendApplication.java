@@ -8,6 +8,7 @@ public class DiagniAiBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DiagniAiBackendApplication.class, args);
+		System.out.println("hi..");
 	}
 
 }
